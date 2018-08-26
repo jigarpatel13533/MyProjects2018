@@ -18,6 +18,7 @@ public class CScanner {
 
 	static File srcFile = new File("D:/CodeScannerFiles/BuildPackage");
 	static File ruleFile = new File("D:/CodeScannerFiles/Rulebook/Rules_verification.xlsx");
+	
 
 	File report = null;
 	JFrame frame = null;
