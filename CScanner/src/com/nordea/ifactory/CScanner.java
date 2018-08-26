@@ -31,6 +31,9 @@ public class CScanner {
 	String output = "";
 
 	public CScanner() {
+		
+		//Sneha code changes
+		
 		frame = new JFrame();
 
 		try {
